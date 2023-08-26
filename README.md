@@ -1,6 +1,6 @@
 # Hello, I'm Ryna 👋
 Junior Front End Engineer.
-In general worked with HTML, CSS, JS and Python.
+In general worked with _____.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sxxnryna&show_icons=true&count_private=true"><img
