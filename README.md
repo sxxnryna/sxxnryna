@@ -1,6 +1,6 @@
 # Hello, I'm Ryna 👋
-Junior Front End Engineer.
-In general worked with _____.
+<!--Junior Front End Engineer.
+In general worked with _____. -->
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=sxxnryna&show_icons=true&count_private=true"><img
@@ -21,7 +21,7 @@ In general worked with _____.
    📫 How to reach me: <a href='mailto:katrin_dr@naver.com'>katrin_dr@naver.com</a>
 </p>
 
-
+<!--
 ### Key points
 *   
 *   
@@ -40,4 +40,5 @@ In general worked with _____.
 *   
 *   
 *   
-*  
+
+-->
